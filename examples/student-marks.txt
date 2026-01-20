@@ -1,4 +1,4 @@
 Rahul: 85
-Anita: 95
+Anita: 90
 Suresh: 78
 DummyStudent: 999
